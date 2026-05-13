@@ -23,7 +23,7 @@ public class Palindrome_Linked_list{
 
     public static boolean isPalindrome(ListNode head) {
 
-        if (head == null) {
+        if (head == null) { 
             return true;
         }
 
