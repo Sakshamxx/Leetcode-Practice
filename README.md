@@ -69,6 +69,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
