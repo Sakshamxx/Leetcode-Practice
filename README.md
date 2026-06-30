@@ -103,8 +103,17 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
+## Greedy
+|  |
+| ------- |
+| [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
