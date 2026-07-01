@@ -102,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Matrix
@@ -111,9 +112,14 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
 |  |
 | ------- |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
