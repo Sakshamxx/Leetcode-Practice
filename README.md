@@ -134,4 +134,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
