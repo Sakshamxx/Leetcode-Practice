@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -134,6 +135,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
