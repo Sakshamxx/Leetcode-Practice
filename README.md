@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
@@ -131,6 +132,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
