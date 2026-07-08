@@ -154,6 +154,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
