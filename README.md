@@ -73,6 +73,7 @@
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 ## Stack
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
@@ -169,4 +171,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
