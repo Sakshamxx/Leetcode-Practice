@@ -15,6 +15,7 @@
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
