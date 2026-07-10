@@ -85,10 +85,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
 ## Dynamic Programming
