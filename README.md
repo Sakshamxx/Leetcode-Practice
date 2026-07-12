@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
