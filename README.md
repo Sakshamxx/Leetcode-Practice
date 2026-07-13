@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 ## Linked List
 |  |
 | ------- |
