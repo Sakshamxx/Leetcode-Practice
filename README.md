@@ -64,6 +64,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
@@ -109,6 +110,7 @@
 | [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -125,5 +127,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
