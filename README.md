@@ -71,6 +71,7 @@
 | [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
+| [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
+| [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
