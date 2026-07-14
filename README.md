@@ -12,6 +12,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
