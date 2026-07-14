@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -73,6 +74,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
 |  |
@@ -119,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
 ## Brainteaser
