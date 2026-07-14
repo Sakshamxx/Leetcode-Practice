@@ -67,6 +67,7 @@
 | [0006-zigzag-conversion](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Greedy
@@ -83,6 +84,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -117,6 +119,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
