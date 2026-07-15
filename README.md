@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">🚀 ML Intern | 🤖 3X Hackathon Wins | 💡 Competitive Programming s</h3>
+<h3 align="center">🚀 ML Intern | 🤖 3X Hackathon Wins | 💡 Competitive Programmer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sakshamxx&label=Profile%20Views&color=0e75b6&style=flat" />
