@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0274-h-index) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
@@ -24,6 +25,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 ## Linked List
