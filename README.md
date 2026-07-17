@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -92,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
