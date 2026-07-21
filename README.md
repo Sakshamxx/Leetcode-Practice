@@ -34,6 +34,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0274-h-index) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -64,6 +65,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 ## Matrix
 |  |
@@ -79,6 +81,7 @@
 | [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
 | [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
