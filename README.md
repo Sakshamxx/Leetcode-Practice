@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
