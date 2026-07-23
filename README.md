@@ -25,6 +25,7 @@
 | [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
