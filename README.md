@@ -26,6 +26,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1901-find-a-peak-element-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
+| [1901-find-a-peak-element-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Linked List
 |  |
 | ------- |
