@@ -1,186 +1,117 @@
-<h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">🚀 ML Intern | 🤖 3X Hackathon Wins | 💡 Competitive Programmer </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sakshamxx&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="PASTE_YOUR_PHOTO_URL_HERE" width="150" height="150" style="border-radius:50%;object-fit:cover;" alt="Saksham Chauhan" />
+
+<h1>Saksham Chauhan</h1>
+<h3>Machine Learning Engineer &nbsp;&middot;&nbsp; Data Science Intern</h3>
+
+<p>
+Building ML pipelines and NLP systems that ship — from fraud &amp; scam detection<br/>
+to workforce management platforms, with an emphasis on clean data and honest evaluation.
 </p>
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0027-remove-element) |
-| [0041-first-missing-positive](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0041-first-missing-positive) |
-| [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
-| [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
-| [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-| [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
-| [0274-h-index](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0274-h-index) |
-| [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
-| [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-| [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
-| [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
-| [1480-running-sum-of-1d-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
-| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
-| [1901-find-a-peak-element-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-## Sorting
-|  |
-| ------- |
-| [0274-h-index](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0274-h-index) |
-| [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
-| [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-| [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
-| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-## Counting Sort
-|  |
-| ------- |
-| [0274-h-index](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0274-h-index) |
-| [0912-sort-an-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0912-sort-an-array) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0041-first-missing-positive](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0041-first-missing-positive) |
-| [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
-| [0160-intersection-of-two-linked-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
-| [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
-| [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
-| [1901-find-a-peak-element-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0006-zigzag-conversion](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0006-zigzag-conversion) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
-| [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
-| [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
-| [0791-custom-sort-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0791-custom-sort-string) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
-| [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
-## Greedy
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
-| [2405-optimal-partition-of-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/2405-optimal-partition-of-string) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
-## Two Pointers
-|  |
-| ------- |
-| [0027-remove-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0027-remove-element) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-| [0151-reverse-words-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
-| [0160-intersection-of-two-linked-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
-| [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
-| [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
-| [0977-squares-of-a-sorted-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0977-squares-of-a-sorted-array) |
-## Binary Search
-|  |
-| ------- |
-| [0162-find-peak-element](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0162-find-peak-element) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
-| [0658-find-k-closest-elements](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
-| [0875-koko-eating-bananas](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
-| [1901-find-a-peak-element-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
-| [0160-intersection-of-two-linked-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+<a href="https://www.linkedin.com/in/saksham-chauhan-b18bb5277">LinkedIn</a> &nbsp;&bull;&nbsp;
+<a href="mailto:sakshamchauhan003@gmail.com">Email</a> &nbsp;&bull;&nbsp;
+<a href="https://leetcode.com/u/Sakshamchauhanxx/">LeetCode</a> &nbsp;&bull;&nbsp;
+<a href="https://github.com/Sakshamxx">GitHub</a>
+
+</div>
+
+<br/>
+
+## Focus
+
+- Currently building on **Generative AI**, with an active focus on production ML pipelines rather than notebook-only prototypes
+- Sharpening **Advanced Data Structures & Algorithms** and **System Design** fundamentals
+- Open to hackathon collaboration and pairing with a serious engineering partner
+
+<br/>
+
+## Selected Work
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**ScamShield AI — Job Scam Detection System**
+End-to-end ML pipeline (TF-IDF, N-grams, VADER sentiment, StratifiedKFold CV) feeding a stacked Random Forest / XGBoost ensemble, served through a Flask + Supabase backend with a React frontend. Diagnosed and fixed data leakage from proxy columns and a broken risk-scoring formula before deployment.
+<br/><br/>
+<img src="https://img.shields.io/badge/Flask-11181C?style=flat-square&logo=flask&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/scikit--learn-11181C?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/XGBoost-11181C?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Supabase-11181C?style=flat-square&logo=supabase&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/React-11181C?style=flat-square&logo=react&logoColor=white" height="20"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**NagarSetu — Municipal Workforce Management System**
+ML-backed workforce management platform for a municipal corporation, including legacy SQL/CSV schema reconciliation against a formal PRD and serialized model artifacts wired into a Flask backend.
+<br/><br/>
+<img src="https://img.shields.io/badge/Flask-11181C?style=flat-square&logo=flask&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/SQL-11181C?style=flat-square&logo=mysql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Pandas-11181C?style=flat-square&logo=pandas&logoColor=white" height="20"/>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Salary Prediction Pipeline**
+Comparative study across five regression models (Ridge, Lasso, Random Forest with GridSearchCV) on a 30k-row employee dataset, with transparent reporting of predictive signal rather than overstated results.
+<br/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-11181C?style=flat-square&logo=scikitlearn&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Pandas-11181C?style=flat-square&logo=pandas&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/NumPy-11181C?style=flat-square&logo=numpy&logoColor=white" height="20"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Stack
-|  |
-| ------- |
-| [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0002-add-two-numbers) |
-| [0007-reverse-integer](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0007-reverse-integer) |
-| [0066-plus-one](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0066-plus-one) |
-| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
-| [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0045-jump-game-ii](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0045-jump-game-ii) |
-| [0392-is-subsequence](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0392-is-subsequence) |
-| [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
-## Brainteaser
-|  |
-| ------- |
-| [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
-## Game Theory
-|  |
-| ------- |
-| [1025-divisor-game](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1025-divisor-game) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
-| [0946-validate-stack-sequences](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0946-validate-stack-sequences) |
-| [3174-clear-digits](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/3174-clear-digits) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0067-add-binary) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/1480-running-sum-of-1d-array) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0175-combine-two-tables) |
-| [0182-duplicate-emails](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0182-duplicate-emails) |
-| [0183-customers-who-never-order](https://github.com/Sakshamxx/Leetcode-Practice/tree/master/0183-customers-who-never-order) |
-<!---LeetCode Topics End-->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-11181C?style=flat-square&logo=python&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Java-11181C?style=flat-square&logo=openjdk&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/JavaScript-11181C?style=flat-square&logo=javascript&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/SQL-11181C?style=flat-square&logo=postgresql&logoColor=white" height="24"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-11181C?style=flat-square&logo=scikitlearn&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Pandas-11181C?style=flat-square&logo=pandas&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/NumPy-11181C?style=flat-square&logo=numpy&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/TensorFlow-11181C?style=flat-square&logo=tensorflow&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/PyTorch-11181C?style=flat-square&logo=pytorch&logoColor=white" height="24"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Flask-11181C?style=flat-square&logo=flask&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Supabase-11181C?style=flat-square&logo=supabase&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MongoDB-11181C?style=flat-square&logo=mongodb&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Docker-11181C?style=flat-square&logo=docker&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/AWS-11181C?style=flat-square&logo=amazonaws&logoColor=white" height="24"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-11181C?style=flat-square&logo=git&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Figma-11181C?style=flat-square&logo=figma&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Notion-11181C?style=flat-square&logo=notion&logoColor=white" height="24"/>
+
+</div>
+
+<br/>
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Sakshamxx&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&text_color=333333&icon_color=333333&bg_color=ffffff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamxx&layout=compact&theme=graywhite&hide_border=true&hide_title=true&text_color=333333&bg_color=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Sakshamxx&style=flat&color=333333" height="16" style="vertical-align:middle;" /></sub>
+</div>
